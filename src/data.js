@@ -78,7 +78,7 @@ export const books = [
     url: "https://mybook.to/DarkSpeculationsV2",
     originalPrice: 27.79,
     salePrice: 0,
-    rating: 4.5,
+    rating: 5,
   },
   {
     id: 10,
@@ -105,7 +105,7 @@ export const books = [
     url: "https://mybook.to/FracturedCode",
     originalPrice: 25.99,
     salePrice: 15.99,
-    rating: 5,
+    rating: 4.5,
   },
   {
     id: 13,
@@ -132,7 +132,7 @@ export const books = [
     url: "https://mybook.to/EchoProtocol",
     originalPrice: 16,
     salePrice: null,
-    rating: 4.5,
+    rating: 4,
   },
   {
     id: 16,

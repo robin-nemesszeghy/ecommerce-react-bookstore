@@ -10,7 +10,7 @@ function Landing() {
             <h1>Little Red Bird Publishing Recommended Books</h1>
             <h2>
               Find your dream book with
-              <span className="blue"> Little Red's Library</span>
+              <span className="beige"> Little Red's Library</span>
             </h2>
             <a href="#features">
               <button className="btn">Browse Books</button>
